@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <dimen name="activity_horizontal_margin">128dp</dimen>
-    <dimen name="splash_size">450dp</dimen>
-
-    <item name="activity_menu" type="layout">@layout/activity_double_fragment</item>
-
-</resources>
