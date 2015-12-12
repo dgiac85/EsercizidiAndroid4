@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Giacomo/AndroidStudioProjects/EsercizidiAndroid4/UGHO/src/main/res/values-sw600dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="splash_size">300dp</dimen>
+</resources>

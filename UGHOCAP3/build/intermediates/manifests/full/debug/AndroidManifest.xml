@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="uk.co.massimocarli.android.ugho"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="7"
+        android:targetSdkVersion="16" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+
+        <!-- activity android:name=".FirstAccessActivity" android:process=":other_process"/ -->
+        <activity android:name="uk.co.massimocarli.android.ugho.FirstAccessActivity" />
+        <activity android:name="uk.co.massimocarli.android.ugho.MenuActivity" />
+        <activity android:name="uk.co.massimocarli.android.ugho.NewDataActivity" />
+        <activity android:name="uk.co.massimocarli.android.ugho.InputDataActivity" />
+        <activity android:name="uk.co.massimocarli.android.ugho.LocalDataActivity" />
+        <activity android:name="uk.co.massimocarli.android.ugho.RemoteDataActivity" />
+        <activity
+            android:name="uk.co.massimocarli.android.ugho.TouchSplashActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="uk.co.massimocarli.android.ugho.LoginActivity"
+            android:label="@string/login_activity_label" >
+            <intent-filter>
+                <action android:name="uk.co.massimocarli.android.ugho.action.LOGIN_ACTION" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="uk.co.massimocarli.android.ugho.RegisterActivity"
+            android:label="@string/register_activity_label" >
+            <intent-filter>
+                <action android:name="uk.co.massimocarli.android.ugho.action.REGISTRATION_ACTION" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="uk.co.massimocarli.android.ugho.ShowUserDataActivity"
+            android:label="@string/register_activity_label" >
+            <intent-filter>
+                <action android:name="uk.co.massimocarli.android.ugho.action.SHOW_USER_ACTION" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
