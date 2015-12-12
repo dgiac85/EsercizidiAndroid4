@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="splash_size">300dp</dimen>
+
+    <item name="activity_menu" type="layout">@layout/activity_double_fragment</item>
+
+</resources>

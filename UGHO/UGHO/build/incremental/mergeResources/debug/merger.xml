@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/drawable/ic_launcher.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="splash_image"
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/drawable/splash_image.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="splash_image"
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/drawable-mdpi/splash_image.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="splash_image"
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/drawable-xhdpi/splash_image.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="splash_image"
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/drawable-xxhdpi/splash_image.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_double_fragment"
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/layout/activity_double_fragment.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_login"
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/layout/activity_login.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_registration"
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/layout/activity_registration.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_show_user_data"
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/layout/activity_show_user_data.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_single_fragment"
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/layout/activity_single_fragment.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_splash"
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/layout/activity_splash.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_input_data"
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/layout/fragment_input_data.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_local_data"
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/layout/fragment_local_data.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_main"
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/layout/fragment_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_menu"
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/layout/fragment_menu.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_new_data"
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/layout/fragment_new_data.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_remote_data"
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/layout/fragment_remote_data.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <color name="grey" >#BBBBBB
+                </color>
+                <color name="green" >#00FF00
+                </color>
+                <color name="blue" >#0000FF
+                </color>
+                <color name="white" >#FFFFFF
+                </color>
+
+                <string name="error_message_color" >@color/red
+                </string>
+
+                <color name="black" >#000000
+                </color>
+                <color name="red" >#FF0000
+                </color>
+                <color name="dark_grey" >#555555
+                </color>
+                <color name="light_grey" >#EEEEEE
+                </color>
+            </file>
+            <file
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="splash_size" >250dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/values/placeholders.xml"
+                qualifiers="" >
+                <string name="placeholder_local_data" >Show local data
+                </string>
+                <string name="placeholder_data_question" >How do you feel in Love?
+                </string>
+                <string name="placeholder_remote_data" >Show remote data
+                </string>
+            </file>
+            <file
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="location_label" >Location:
+                </string>
+                <string name="luck_label" >Luck
+                </string>
+                <string name="love_label" >Love
+                </string>
+                <string name="confirm_button_label" >Confirm
+                </string>
+                <string name="email_label" >Email:
+                </string>
+                <string name="remote_data_button_label" >Access Remote Data
+                </string>
+                <string name="username_label" >Username:
+                </string>
+                <string name="login_button_label" >Login
+                </string>
+                <string name="register_button_label" >Register
+                </string>
+                <string name="password_label" >Password:
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="data_question_format" >How do you feel in %1$s?
+                </string>
+                <string name="login_activity_label" >Login
+                </string>
+                <string name="register_activity_label" >Register
+                </string>
+                <string name="anonymous_button_label" >Anonymous
+                </string>
+                <string name="work_label" >Work
+                </string>
+                <string name="send_button_label" >Send
+                </string>
+                <string name="birth_date_label" >Birth date:
+                </string>
+                <string name="old_data_button_label" >View Old Data
+                </string>
+                <string name="app_name" >UGHO
+                </string>
+                <string name="mandatory_field_error" >The field %1$s is mandatory
+                </string>
+                <string name="health_label" >Health
+                </string>
+                <string name="wrong_credential_error" >Wrong credentials! Please try again.
+                </string>
+                <string name="new_data_button_label" >Insert New Data
+                </string>
+            </file>
+            <file
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/values-sw600dp/dimens.xml"
+                qualifiers="sw600dp" >
+                <dimen name="splash_size" >300dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/values-sw600dp-land/dimens.xml"
+                qualifiers="sw600dp-land" >
+                <dimen name="splash_size" >300dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/values-sw600dp-land/refs.xml"
+                qualifiers="sw600dp-land" >
+                <item
+                    name="activity_menu"
+                    type="layout">
+@layout/activity_double_fragment
+                </item>
+                <item
+                    name="activity_notizia_list"
+                    type="layout">
+@layout/activity_notizia_twopane
+                </item>
+            </file>
+            <file
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/values-sw720dp/dimens.xml"
+                qualifiers="sw720dp" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+                <dimen name="splash_size" >450dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+                <dimen name="splash_size" >450dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/values-sw720dp-land/refs.xml"
+                qualifiers="sw720dp-land" >
+                <item
+                    name="activity_menu"
+                    type="layout">
+@layout/activity_double_fragment
+                </item>
+                <item
+                    name="activity_notizia_list"
+                    type="layout">
+@layout/activity_notizia_twopane
+                </item>
+            </file>
+            <file
+                name="activity_menu"
+                path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/main/res/layout/activity_menu.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/src/debug/res" />
+    </dataSet>
+
+</merger>

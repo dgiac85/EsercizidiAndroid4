@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Giacomo/AndroidStudioProjects/Android4-Esempi/Capitolo_3/UGHO/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="bd6479f5dd592790607e0504e66e0f31c2b4d308">
+        <dex dex="/Users/Giacomo/AndroidStudioProjects/Android4-Esempi/Capitolo_3/UGHO/build/intermediates/pre-dexed/debug/android-support-v4-b1f7ce66fb244e1f33c7ef223f859a7c32e4052a.jar" />
+    </item>
+
+</items>

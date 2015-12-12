@@ -1,0 +1,27 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1369958342000 110 07c7d34f8ff096ddd94be637bb8ab54d862a9900 /Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/build/res/all/debug/values-sw600dp/values.xml
+1370997743000 1543 90e4db4cf4b4c9f42d41e64595f98d3c436673b1 /Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/build/res/all/debug/layout/activity_new_data.xml
+1369958342000 3627 b53edf179fd6211487cb431d29318e999cf28ad5 /Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/build/res/all/debug/drawable/ic_launcher.png
+1368831461000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/build/res/all/debug/menu/main.xml
+1370998873000 1245 11f87764abf5834a7c5c4c18f51e42744025fedf /Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/build/res/all/debug/layout/activity_input_data.xml
+1369958342000 169 0760fb981e845eb8f8d248090586772456009729 /Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/build/res/all/debug/values-sw720dp-land/values.xml
+1369958342000 472 d8c0a42f4ad1084368f65b2b8ab11c91f81aa4af /Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/build/res/all/debug/layout/activity_splash.xml
+1370902767000 2137 1c1b493a91f57c18de16a67fb7cbf044ac57d9c5 /Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/build/res/all/debug/layout/activity_login.xml
+1369958342000 2250 d97f7ae816f0d0628fd5c1a0edd9dcf580a0a917 /Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/build/res/all/debug/drawable-mdpi/splash_image.png
+1370306720000 1417 80b9d4e2bbb81e65be2d8771f49f7fc3b31f398c /Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/build/res/all/debug/layout/activity_menu.xml
+1370306720000 1396 b4f625da4b3d23518fe83f7101661828f1bc64a0 /Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/build/res/all/debug/layout/activity_main.xml
+1370995904000 3879 16ddca415455fb51ff06cf5f203d0980422028fa /Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/build/res/all/debug/layout/activity_registration.xml
+1369958342000 8081 60ed3213135c99284fa922c6283b2298030838d1 /Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/build/res/all/debug/drawable-xxhdpi/splash_image.png
+1370995904000 3010 015565645743ab253970d84cfbb59dd641e0dfaf /Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/build/res/all/debug/layout/activity_show_user_data.xml
+1370999250000 955 4bcb993f0268c67a7ec70207a1c82c6f6ccd530c /Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/build/res/all/debug/layout/activity_local_data.xml
+1368831461000 2250 d97f7ae816f0d0628fd5c1a0edd9dcf580a0a917 /Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1370999250000 2708 1b753eef1f9cb1460a7174001e230af55a9bb0c7 /Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/build/res/all/debug/values/values.xml
+1368831461000 8081 60ed3213135c99284fa922c6283b2298030838d1 /Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1369958342000 4882 e23b8ffa855e8b585b709318d0d8a19bf1106e98 /Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/build/res/all/debug/drawable-xhdpi/splash_image.png
+1369958342000 3627 b53edf179fd6211487cb431d29318e999cf28ad5 /Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/build/res/all/debug/drawable/splash_image.png
+1368831461000 217 f02e000d05a079992d2dba18039216c1e6b8784f /Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/build/res/all/debug/values-v14/values.xml
+1368831461000 4882 e23b8ffa855e8b585b709318d0d8a19bf1106e98 /Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1368831461000 203 19aedb7cdc3386344e36087b035a0a6b2b91d4cd /Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/build/res/all/debug/values-v11/values.xml
+1370999250000 957 2368564d3a850423291ec8bacfd77ab16b55f9b5 /Users/massimocarli/AndroidStudioProjects/UGHO/UGHO/build/res/all/debug/layout/activity_remote_data.xml
